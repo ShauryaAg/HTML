@@ -7,6 +7,6 @@
     font-family: 'Courier New', Courier, monospace;
     background-image : linear-gradient(to bottom, white, black)
 }
-ul { 
+ul li{ 
     margin-bottom: 100px;
 }
