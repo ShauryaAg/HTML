@@ -1,0 +1,9 @@
+.card {
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 100%;
+    margin: 20px;
+    padding:30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image : linear-gradient(to right, rgb(255, 0, 0), rgb(240, 240, 13))
+}
